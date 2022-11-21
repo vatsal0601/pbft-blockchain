@@ -1,6 +1,6 @@
 # Implementing PBFT in Blockchain
 
-_**The order of command line arguments to give is `node index SECRET P2P_PORT HTTP_PORT PEERS`**_
+_**The order of command line arguments to given are `node index SECRET P2P_PORT HTTP_PORT PEERS`**_
 
 For installing the dependencies run the `npm install` or `yarn install` command in terminal after cloning the repository.
 
